@@ -1,4 +1,4 @@
-# clc02
+﻿# clc02
 clc02 development
 
-表示テスト。
+表示テストdayo
